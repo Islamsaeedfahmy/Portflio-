@@ -1,0 +1,56 @@
+body {
+    background-color: #181823;
+}
+a {
+    color: white;
+}
+.navBar{
+    display: flex;
+    align-items: center; 
+    justify-content: space-evenly;
+}
+.navItems{
+    display: flex;
+    gap: 10px;
+}
+
+h2 {
+    color: white;
+}
+header h2 span {
+    color: red;
+
+}
+
+h3 {
+    color: red;
+}
+
+h4 {
+    color: white;
+}
+p {
+    color: white;
+}
+
+hr {
+    color: red;
+    
+}
+
+
+.MI5a {
+    
+    justify-content: 200px;
+    /* align-items: center; */
+}
+
+.icons {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    align-items: center;
+}
